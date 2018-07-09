@@ -1,4 +1,4 @@
-# ImageOrganize
+# gazouseiriman
 
 ## これはなに
 画像をフォルダ分けするのを支援してくれるやつ
